@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1368093824 source:f:\projects\k-means\main.cpp
+	<iostream>
+	"k-means.h"
+
+1368096299 f:\projects\k-means\k-means.h
+	<fstream>
+
+1368087288 source:f:\projects\k-means\k-means.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	"k-means.h"
+
